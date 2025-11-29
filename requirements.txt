@@ -1,0 +1,5 @@
+opencv-python
+numpy
+selenium
+webdriver-manager
+Pillow
